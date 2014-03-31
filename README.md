@@ -1,4 +1,4 @@
-first-git-project
+Guess-game
 =================
 
 public class GuessGame {
